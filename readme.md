@@ -8,8 +8,8 @@
 
 [3. Способы разметки страницы](/03/readme.md)
 
-<!-- [4. Основы JavaScript](/04/readme.md)
-
+[4. Основы JavaScript](/04/readme.md)
+<!--
 [5. Node.js]
 
 [6. PHP]
