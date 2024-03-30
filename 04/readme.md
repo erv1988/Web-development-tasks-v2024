@@ -18,41 +18,41 @@
 
    - Циклы, переменные, операторы сравнения, логические операторы
    - Функции alert(), prompt(), console.log(), Math.random(), Math.floor()
-   - Упрощенная версия игры ["Морской бой"](examples/chapter2/index.html)
+   - Упрощенная версия игры "Морской бой [см. index.html](examples/chapter2/README.md)
 
 3. Глава 3: "Функции для всех"
 
-   - Ключевое слово [function](examples/chapter3/functions.html)
+   - Ключевое слово function [(см. functions.html)](examples/chapter3/README.md)
    - Параметры, аргументы, return
    - Вызов функции
    - Глобальные и локальные переменные
 
 4. Глава 4: "Массивы"
 
-   - [Массивы, объявление массивов, разреженные массивы, метод push()](examples/chapter4/randomizer.html);
-   - Циклы [for и while](examples/chapter4/report.html)
+   - Массивы, объявление массивов, разреженные массивы, метод push() [(см. randomizer.html)](examples/chapter4/README.md);
+   - Циклы for и while [(см. report.html)](examples/chapter4/README.md)
    - Инкремент и декремент
 
 5. Глава 5: "Поездка в Объектвиль"
 
    - Объект и его свойства
-   - [Методы объекта](examples/chapter5/objects.html)
+   - Методы объекта [(см. objects.html)](examples/chapter5/README.md)
    - Состояние и поведение объектов
 
 6. Глава 6: "Модель DOM"
 
    - HTML, JavaScript и DOM
    - document
-   - Получение элементов - [getElementById(), getElementsByClassName](examples/chapter6/planets.html)
-   - [innerHTML](examples/chapter6/songs.html)
+   - Получение элементов - getElementById(), getElementsByClassName [(см. planets.html)](examples/chapter6/README.md)
+   - innerHTML [(см. songs.html)](examples/chapter6/README.md)
 
 7. Глава 7: "Серьезные типы"
 
-   - Примитивы и [объекты](examples/chapter7/object.html)
-   - [Сравнение == и ===](examples/chapter7/index.html)
+   - Примитивы и объекты [(см. object.html)](examples/chapter7/README.md)
+   - Сравнение == и === [(см. index.html)](examples/chapter7/README.md)
    - Преобразование типов
    - Псевдоистинные и псевдоложные значения
-   - Методы строк - indexOf, substring, split, slice, replace, toUpperCase, toLowerCase, lastIndexOf, trim, match, concat
+   - Методы строк - indexOf, substring, split, slice, replace, toUpperCase, toLowerCase, lastIndexOf, trim, match, concat [(см. index.html)](examples/chapter7/README.md)
 
 <!-- ### Глава 8: "Построение приложения"
 
