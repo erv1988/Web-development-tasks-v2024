@@ -14,12 +14,13 @@
 
 [5. Основы React.js](/05/readme.md)
 
+[6. ASP.Net](/06/readme.md)
+
+
 <!--
 [5. Node.js]
 
 [6. PHP]
-
-[7. ASP.Net]
 
 [8. REST]
 
